@@ -1,0 +1,40 @@
+appdirs==1.4.4
+Brotli @ file:///home/conda/feedstock_root/build_artifacts/brotli-split_1687884021435/work
+certifi==2023.7.22
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1688813409104/work
+click==8.1.7
+docker-pycreds==0.4.0
+docopt==0.6.2
+filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1686612785345/work
+gitdb==4.0.10
+GitPython==3.1.32
+gmpy2 @ file:///home/conda/feedstock_root/build_artifacts/gmpy2_1666808654411/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1654302431367/work
+MarkupSafe @ file:///home/conda/feedstock_root/build_artifacts/markupsafe_1685769049201/work
+mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1678228039184/work
+networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1680692919326/work
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1691056231492/work
+onnx==1.14.0
+pathtools==0.1.2
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1675487172403/work
+pipreqs==0.4.13
+protobuf==4.24.1
+psutil==5.9.5
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+PyYAML==6.0.1
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
+sentry-sdk==1.29.2
+setproctitle==1.3.2
+six==1.16.0
+smmap==5.0.0
+sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1684180540116/work
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+tqdm==4.66.1
+triton==2.0.0
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1688315532570/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1689789803562/work
+wandb==0.15.8
+yarg==0.1.9
