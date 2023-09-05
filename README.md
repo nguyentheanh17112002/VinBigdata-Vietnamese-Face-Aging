@@ -34,7 +34,7 @@ bash download.sh
 To train the model, follow these steps:
 ```bash
 cd src/
-pip install requirement.txt
+pip install requirements.txt
 python train.py
 ```
 
@@ -42,7 +42,7 @@ python train.py
 To perform inference with the model, follow these steps:
 1. Place the images you want to infer from into the "test/input" directory.
 
-2. 
+2. Run the following shell script commands.
     ```bash
         cd src/
         python test.py
