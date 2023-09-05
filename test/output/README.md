@@ -1,0 +1,1 @@
+The output images after inference with the model are saved in this folder.

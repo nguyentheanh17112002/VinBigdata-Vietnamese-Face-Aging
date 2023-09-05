@@ -1,0 +1,1 @@
+The original images, reconstructed images, modified images, and model weights are logged here during the training process.

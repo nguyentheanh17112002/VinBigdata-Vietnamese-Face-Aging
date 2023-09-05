@@ -1,0 +1,1 @@
+The input images to run inference with the model are stored in this folder.
