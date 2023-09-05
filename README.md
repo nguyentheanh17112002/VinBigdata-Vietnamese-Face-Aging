@@ -31,6 +31,12 @@ bash download.sh
 ```
 
 ### Training
+In the "train.py" file, fill in your Wandb key and project name to track the experiment.
+```python
+wandb.login(key="")
+wandb.init(project="", entity="")
+```
+
 To train the model, follow these steps:
 ```bash
 cd src/
@@ -45,7 +51,7 @@ To perform inference with the model, follow these steps:
 2. Run the following shell script commands.
     ```bash
         cd src/
-        python test.py
+        python infer.py
     ```
 3. The output images are saved in the "test/output" directory
 ## Result
